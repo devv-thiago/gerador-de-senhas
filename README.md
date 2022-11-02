@@ -1,17 +1,11 @@
 # projeto_programacao
 
-A new Flutter project.
+Esse projeto é um gerador de senhas que foi criado como projeto final da aula de Programação II. Este projeto utilizou conceitos bem básicos de Flutter.
 
-## Getting Started
+## Como Testar
 
-This project is a starting point for a Flutter application.
+Primeiramente para testar somente o app, acesse o caminho "build\app\outputs\flutter-apk\" dentro da pasta realize o download do arquivo "app-release.apk" e instale no seu aparelho celular para realizar o teste.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# gerador-de-senhas
+Caso queira rodar o código e fazer alguma alteração é necessário realizar a instalação:
+1. Dart (https://gekorm.com/dart-windows/)
+2. Flutter (https://docs.flutter.dev/get-started/install)
